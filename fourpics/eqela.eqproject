@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# fourpics
+#
+
+projectname: fourpics
+vendorid: com.mycompany
+mainmodule: com.mycompany.fourpics
